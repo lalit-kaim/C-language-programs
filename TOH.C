@@ -1,13 +1,11 @@
 #include<stdio.h>
 #include<conio.h>
-// sample command
 void toh(int ,char , char, char);
 void main(){
  int n;
  clrscr();
  scanf("%d",&n);
  toh(n,'b','a','e');
- printf("end of progrma");
  getch();
 }
 void toh(int n,char b,char a,char e){
