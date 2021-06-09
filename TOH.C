@@ -6,6 +6,7 @@ void main(){
  clrscr();
  scanf("%d",&n);
  toh(n,'b','a','e');
+ print("lk");
  getch();
 }
 void toh(int n,char b,char a,char e){
